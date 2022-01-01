@@ -1,7 +1,6 @@
 {
   "name": "libraryexpress",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -17,5 +16,7 @@
     "start":"server.js"
   },
   "author": "aiswarya",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
+
 }
